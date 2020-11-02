@@ -1,0 +1,14 @@
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\EmpDetails.dll
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\EmpDetails.pdb
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Newtonsoft.Json.dll
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\bin\Debug\Newtonsoft.Json.xml
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\obj\Debug\EmpDetails.csprojAssemblyReference.cache
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\obj\Debug\EmpDetails.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\obj\Debug\EmpDetails.csproj.CopyComplete
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\obj\Debug\EmpDetails.dll
+C:\Users\91870\source\repos\yadavmahak01\Azure\EmployeeInformation\EmpDetails\obj\Debug\EmpDetails.pdb
